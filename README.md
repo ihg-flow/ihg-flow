@@ -2,7 +2,7 @@
 
 ### Cytometry in R - Starter Questions
 
-- Favorite Fluorpphore: BV421
+- Favorite Fluorophore: BV421
 
 - Previous coding experience: none
 
